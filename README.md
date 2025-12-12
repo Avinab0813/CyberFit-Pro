@@ -32,9 +32,9 @@ It features a custom **"Bento Grid" UI** designed for high contrast and readabil
 
 ## 📸 Interface Gallery
 
-| **Daily Dashboard** | **FitCoach AI** | **Workout Plans** | **Athlete Profile** |
-|:---:|:---:|:---:|:---:|
-| <img src="./assets/screenshots/home.png" width="200" /> | <img src="./assets/screenshots/ai.png" width="200" /> | <img src="./assets/screenshots/plans.png" width="200" /> | <img src="./assets/screenshots/profile.png" width="200" /> |
+| **Dashboard** | **AI Coach** | **Workout Plans** | **Profile** | **GPS Tracker** |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/52b019a2-d62e-48e3-aff9-2be17fdfb42d" width="160" /> | <img src="https://github.com/user-attachments/assets/5c8e3dfa-37e2-436a-a4c7-4b7613fe4774" width="160" /> | <img src="https://github.com/user-attachments/assets/d83e7045-eb8b-4b8f-b88c-6dd8e615dc08" width="160" /> | <img src="https://github.com/user-attachments/assets/a9131a3b-e84c-458d-9857-603d5788b4ec" width="160" /> | <img src="https://github.com/user-attachments/assets/679a1963-8c27-4bee-bbd5-da63c1b32985" width="160" /> |
 
 ---
 
@@ -65,7 +65,7 @@ It features a custom **"Bento Grid" UI** designed for high contrast and readabil
 
 You can install the app on any Android device immediately:
 
-> **[📥 Click here to Download CyberFit Pro (v1.0)](LINK_TO_YOUR_RELEASE_HERE)**
+> **[📥 Click here to Download CyberFit Pro (v1.0)](https://github.com/Avinab0813/CyberFit-Pro/releases/download/v1.0.0/apk.apk)**
 
 ---
 
@@ -97,5 +97,5 @@ You can install the app on any Android device immediately:
 ---
 
 <div align="center">
-  <p>Built with ❤️ by <strong>[Avinab Paul]</strong></p>
+  <p>Built with ❤️ by <strong>Avinab Paul</strong></p>
 </div>
